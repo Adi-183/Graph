@@ -1,0 +1,1 @@
+{"name":"Local: 10gcd_tree","url":"c:\\Users\\Dell\\Desktop\\MYCODES\\Graph\\10gcd_tree.cpp","tests":[{"id":1644572221297,"input":"7 6\n1 2\n1 5\n2 3\n2 4\n5 6\n5 7\n10\n50\n100\n200\n3\n60\n21","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\MYCODES\\Graph\\10gcd_tree.cpp","group":"local","local":true}

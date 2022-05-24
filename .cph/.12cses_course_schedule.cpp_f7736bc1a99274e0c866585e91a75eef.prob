@@ -1,0 +1,1 @@
+{"name":"Local: 12cses_course_schedule","url":"c:\\Users\\Dell\\Desktop\\MYCODES\\Graph\\12cses_course_schedule.cpp","tests":[{"id":1644578901443,"input":"6 7\n1 2\n2 3\n3 6\n3 5\n4 1\n4 5\n5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\MYCODES\\Graph\\12cses_course_schedule.cpp","group":"local","local":true}

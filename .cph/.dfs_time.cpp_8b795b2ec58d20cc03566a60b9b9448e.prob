@@ -1,0 +1,1 @@
+{"name":"Local: dfs_time","url":"c:\\Users\\Dell\\Desktop\\MYCODES\\Graph\\dfs_time.cpp","tests":[{"id":1644501928702,"input":"7 6\n1 2\n2 4\n2 5\n1 3\n3 6\n3 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\MYCODES\\Graph\\dfs_time.cpp","group":"local","local":true}
