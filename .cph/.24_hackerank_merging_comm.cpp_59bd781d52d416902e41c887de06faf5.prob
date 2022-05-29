@@ -1,0 +1,1 @@
+{"name":"Local: 24_hackerank_merging_comm","url":"/home/aditya/Desktop/MYCODES/Graph/24_hackerank_merging_comm.cpp","tests":[{"id":1653842751210,"input":"3 6\nQ 1\nM 1 2\nQ 2\nM 2 3\nQ 3\nQ 2","output":"1\n2\n3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aditya/Desktop/MYCODES/Graph/24_hackerank_merging_comm.cpp","group":"local","local":true}
